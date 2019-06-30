@@ -1,0 +1,15 @@
+With this overall analysis, it can be concluded that:
+
+1. Charter Schools have better performance than District one. This is supported by the following results:
+
+- The Top 5 performers are Charter Schools and the Bottom 5 Performers are District Schools
+- The Overall Passing Rate for Charter Schools is 95.174% and for District Schools is 73.12%
+
+2. The number of students in each School might affect the students' performance. This is supported by the following results:
+- Small schools have better average than Medium schools, and this last than Large schools
+- Overall passing rate also falls when school size grows
+Following analyisis: It would be important to review the number of students by School Type
+
+3. Math is harder than Reading. This is supported by the following results:
+- The Math Average in all analysis is lower than Reading Average
+- The %Passing Math is lower than the %Passing Reading
